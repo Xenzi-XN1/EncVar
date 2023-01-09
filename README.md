@@ -1,6 +1,6 @@
 # EncVar
 
-####EncVar adalah sebuah Tools Untuk Obfuscate File Python 3 supaya code anda tidak di curi orang [AMAN]
+#### EncVar adalah sebuah Tools Untuk Obfuscate File Python 3 supaya code anda tidak di curi orang [AMAN]
 
 # Bagaimana Cara Installnya?
 ### Buka Termux Kalian lalu ketik satu persatu seperti dibawah ini
@@ -21,9 +21,7 @@ python EncVar.py
 + Update v1.0
 
 # Hasil Dari Tools EncVar
-![img](https://github.com/Xenzi-XN1/OBF-PY3/blob/main/IMG_20220829_152707.jpg)
-# Hasil Dari Tools EncVar (Var)
-![img](https://github.com/Xenzi-XN1/OBF-PY3/blob/main/IMG_20220829_152656.jpg)
+![img](https://i.ibb.co/vJ0V0sn/IMG-20230109-224719.jpg)
 
 # Thanks to
 ```
